@@ -1,0 +1,26 @@
+modLoader="javafml" #mandatory
+loaderVersion="[${forge_major},)" #mandatory
+displayURL="https://www.curseforge.com/minecraft/mc-mods/breath-mint" #optional
+# updateJSONURL="${update_json}" #optional
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/breath-mint" #optional
+logoFile="logo.png"
+credits="Soaryn for wanting it!" #optional
+authors="MiningMark48"
+
+[[mods]] #mandatory
+    modId="breathmint" #mandatory
+    version="${file.jarVersion}" #mandatory
+    displayName="Breath Mint" #mandatory
+    description='''Stinky Breath!'''
+## A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.breathmint]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[${forge_major},)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="BEFORE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
