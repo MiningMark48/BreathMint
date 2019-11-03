@@ -1,10 +1,6 @@
-
-
-# Breath Mint
-
 <img src="https://f000.backblazeb2.com/file/miningmark48-files/2019/11/03/banner.png" alt="Breath Mint Logo" height=150>
 
-This mod does one thing, it adds another way to get Dragon's Breath without requiring killing the end dragon.
+This mod does one thing, it adds another way to get Dragon's Breath without having to fight the end dragon repeatedly.
 
 By right clicking on a **redstone powered** (animated) Dragon Head with an empty glass bottle, the player will receive Dragon's Breath. 
 
