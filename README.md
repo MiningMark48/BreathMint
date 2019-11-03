@@ -2,7 +2,7 @@
 
 # Breath Mint
 
-<img src="https://f000.backblazeb2.com/file/miningmark48-files/2019/11/03/637083362797971967.png" alt="Breath Mint Logo" width=200>
+<img src="https://f000.backblazeb2.com/file/miningmark48-files/2019/11/03/banner.png" alt="Breath Mint Logo" height=150>
 
 This mod does one thing, it adds another way to get Dragon's Breath without requiring killing the end dragon.
 
