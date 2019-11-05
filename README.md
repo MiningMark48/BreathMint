@@ -1,8 +1,6 @@
 
 <img src="https://f000.backblazeb2.com/file/miningmark48-files/2019/11/03/banner.png" alt="Breath Mint Logo" height=150>
 
-<img src="https://cf.way2muchnoise.eu/full_350216_downloads.svg" href="https://www.curseforge.com/minecraft/mc-mods/breath-mint" alt="Breath Mint downloads"> <img src="https://cf.way2muchnoise.eu/versions/350216_latest.svg" href="https://www.curseforge.com/minecraft/mc-mods/breath-mint" alt="Breath Mint version">
-
 This mod does one thing, it adds another way to get Dragon's Breath without having to fight the end dragon repeatedly.
 
 By right clicking on a **redstone powered** (animated) Dragon Head with an empty glass bottle, the player will receive Dragon's Breath. 
