@@ -1,5 +1,7 @@
 package com.miningmark48.breathmint;
 
+import com.miningmark48.breathmint.behavior.DispenseBottleBehavior;
+import com.miningmark48.breathmint.events.EventInteract;
 import net.minecraft.block.DispenserBlock;
 import net.minecraft.item.Items;
 import net.minecraftforge.common.MinecraftForge;

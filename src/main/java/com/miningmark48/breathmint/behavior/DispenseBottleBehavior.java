@@ -1,4 +1,4 @@
-package com.miningmark48.breathmint;
+package com.miningmark48.breathmint.behavior;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;

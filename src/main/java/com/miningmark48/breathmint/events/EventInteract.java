@@ -1,4 +1,4 @@
-package com.miningmark48.breathmint;
+package com.miningmark48.breathmint.events;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;

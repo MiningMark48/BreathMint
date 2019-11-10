@@ -1,4 +1,4 @@
-package com.miningmark48.breathmint;
+package com.miningmark48.breathmint.util;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
