@@ -3,7 +3,9 @@
 
 This mod does one thing, it adds another way to get Dragon's Breath without having to fight the end dragon repeatedly.
 
-By right clicking on a **redstone powered** (animated) Dragon Head with an empty glass bottle, the player will receive Dragon's Breath. 
+By right clicking on a **redstone powered** (animated) Dragon Head with an empty glass bottle, the player will receive Dragon's Breath.
+
+In v0.0.2, a dispenser containing glass bottles with a Dragon Head in front will dispense Dragon's Breath when powered.
 
 This mod was originally made at the request of Soaryn for Forgecraft.
 
