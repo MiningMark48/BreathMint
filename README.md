@@ -9,4 +9,4 @@ In v0.0.2, a dispenser containing glass bottles with a Dragon Head in front will
 
 This mod was originally made at the request of Soaryn for Forgecraft.
 
-<img src="https://i.imgur.com/b388CD6.png" alt="Sponsored by Nodecraft" height=200>
+<img src="https://i.imgur.com/b388CD6.png" alt="Sponsored by Nodecraft" href="https://nodecraft.com/?utm_source=miningmark48" height=200>
